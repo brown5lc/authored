@@ -1,8 +1,12 @@
+### Navigation:
+
+[Project Tasks and Timeline](./Project%20Tasks%20and%20Timeline)
+
+[Table of Contents](./README.md)
+
 # Task List - Authored (University IDE Project)
 
 ### Team Member: Liam Brown (solo)
-
-### Course: CS5001 – Fall 2025
 
 ## Task Statements
 

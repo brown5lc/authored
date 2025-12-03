@@ -2,14 +2,24 @@
 
 © 2025 Liam Brown. All rights reserved.
 
-## Description
+# Final Design Report
 
-- Authored is a lightweight web IDE for university courses where instructors create classrooms and assignments (tests, skeletons, guardrails). As students code, the IDE records a tamper-evident timeline of edits, pastes, and runs so TAs can replay the process and grade in-browser. Ideally it would also have some automatic tampering detection, but that would be further down the line. There’s also an opt-in AI tutor that never writes code, it guides with concepts, documentation, and test ideas to teach responsible AI use.
+[Team Names](./Team%20Names.md)
 
-## How to use
+[Project Description](./project-description.md)
 
-- This project is currently in development, however once an official release is ready, you'll be able to make an account and access the project via our website. (address TBA)
+[User Stories and Design Diagrams](User_Stories.md)
 
-## License
+[Project Tasks and Timeline](./Project%20Tasks%20and%20Timeline)
 
-- This repository is made publicly available for academic review as part of a university project. Unauthorized copying, modification, distribution, or use of this code, via any medium, is strictly prohibited.
+[ABET Concerns Essay](./ABET%20Concerns%20Essay.md)
+
+[PPT Slideshow](./Assignment%208.pdf)
+
+[Self-Assesment Essays](./Assignment%203.md)
+
+[Professional Biographies](./Professional%20Biography.md)
+
+[Budget](./Budget.md)
+
+[Appendix]
