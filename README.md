@@ -22,4 +22,4 @@
 
 [Budget](./Budget.md)
 
-[Appendix]
+[Appendix](./Appendix.md)
